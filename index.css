@@ -1,0 +1,26 @@
+#currentSong {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+#songList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    border: 1px solid black;
+    max-height: 400px;
+    gap: 50px;
+}
+
+#btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 5px;
+}
